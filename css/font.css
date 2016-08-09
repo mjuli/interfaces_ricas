@@ -1,0 +1,13 @@
+@font-face {
+   font-family: funkyFont;
+   src: url(funkyfresh.ttf);
+}
+
+.funky {
+   font-family: funkyFont;
+}
+
+h1{
+	font-size: 70px;
+	margin-bottom: 50px;
+}
